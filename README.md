@@ -14,7 +14,7 @@ I'm a Computer Science graduate interested in building practical software soluti
 
 ## 🛠️ Technical Skills
 
-**Languages:** Python, Java, C, JavaScript, SQL
+**Languages:** Python, Java, C.
 
 **Frameworks:** FastAPI, Spring Boot, React
 
